@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-community
+langchain-experimental
+python-dotenv
+sqlalchemy
+sqlite3
+google-generativeai
