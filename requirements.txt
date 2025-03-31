@@ -5,5 +5,4 @@ langchain-community
 langchain-experimental
 python-dotenv
 sqlalchemy
-sqlite3
 google-generativeai
